@@ -1,0 +1,487 @@
+interview	Interview
+prize	Preisgeld
+China	China
+trade	Handel
+side	Seite
+budgetary deficit	Haushaltsdefizit
+forced prostitution	Zwangsprostitution
+Upper Palatinate	Oberpfalz
+Swabia	Schwaben
+request	Aufforderung
+repeatedly	wiederholt
+opinion	Meinung
+month	Monat
+bonus	Bonus
+summit	Gipfeltreffen
+Syria	Syrien
+consensus	Konsens
+sponsorship	Sponsoring
+night	Nacht
+victories	Siege
+strong	stark
+charisma	Charisma
+strength	Kraft
+deputy	Stellvertreter
+capital	Hauptstadt
+conversation	Gespräch
+Federal Security Service	FSB
+series	Reihe
+disagreement	Meinungsverschiedenheit
+bridge	Brücke
+building	Gebäude
+BST	BST
+safety	Sicherheit
+buoy	Boje
+perpetrator	Täter
+designate	ausweisen
+CDU	CDU
+housing market	Wohnungsmarkt
+target	Ziel
+generation	Generation
+public health	Gesundheit
+subside	nachlassen
+virtual reality	virtuelle Realität
+gold	Gold
+hype	Hype
+immune	immun
+Brazil	Brasilien
+Texas	Texas
+microcephaly	Mikrozephalie
+sign	Signal
+state of emergency	Ausnahmezustand
+stepson	Stiefsohn
+presence	Anwesenheit
+performances	Leistung
+sport	Sport
+office	Büro
+vote	Wahlstimme
+campaign	Kampagne
+options	Optionen
+requirement	Anforderung
+actor	Schauspieler
+comparison	Vergleich
+skin	Haut
+died	gestorben
+tone	Ton
+pair	Paar
+forearm	Vorderarm
+knee	Knie
+tongue	Zunge
+trip	Reise
+units	Einheiten
+environment	Kontext
+damage	Schaden
+housing	Wohnung
+cash	Bargeld
+warning	Warnung
+parts	Teile
+fog	Nebel
+Madrid	Madrid
+World Championship	WM
+election campaign	Wahlkampf
+holiday	Urlaub
+sample	Probe
+Beijing	Peking
+air strike	Luftangriff
+Judge	Richter
+Republicans	Die Republikaner
+minority	Minderheit
+Prime Minister	Ministerpräsident
+target group	Zielgruppe
+link	Verbindung
+both sides	beidseitig
+commune	Gemeinde
+minute	Minute
+owner	Eigentümer
+communications	Kommunikation
+Brussels	Brüssel
+equipment	Ausstattung
+Western Europe	Westeuropa
+penalty interest	Strafzinsen
+fees	Gebühren
+charm	Charme
+observation	Beobachtung
+stack	Stapel
+option	Option
+Lille	Lille
+petition	Petition
+integrated	integriert
+progress	Fortschritt
+Japan	Japan
+bladder cancer	Blasenkrebs
+challenge	Herausforderung
+homicide	Tötungsdelikt
+financial crisis	Finanzkrise
+dumping	Preisdumping
+rehearsal	Probe
+aspect	Aspekt
+duration	Dauer
+26	26
+AC	AC
+doping	Doping
+Court of Arbitration for Sport	CAS
+Thailand	Thailand
+terrorism	Terrorismus
+Bangkok	Bangkok
+surroundings	Umgebung
+travel	Reisen
+Islamic State	ISIL
+resignation	Rücktritt
+accident	Unfall
+industrial enterprises	Industriebetriebe
+repairs	Reparaturen
+CPI	CPI
+goods	Güter
+tobacco	Tabak
+caricature	Karikatur
+feature	Feature
+Iraq	Irak
+black market	Schwarzmarkt
+execution	Ausführung
+vector	Vektor
+astronaut	Astronaut
+Africa	Afrika
+covering	Bezug
+National Liberation Front	Nationale Befreiungsfront
+shape	Form
+stream	Strom
+menu	Menü
+to smell	riechen
+lunch	Mittagessen
+taste	Geschmack
+eating habits	Essgewohnheiten
+error	Fehler
+science	Wissenschaft
+writing	Schreiben
+whip	Whip
+cosmic radiation	kosmische Strahlung
+length	Länge
+rural	ländlich
+Brexit	Brexit
+Dublin	Dublin
+Luxembourg	Luxemburg
+relief	Erlass
+ingredient	Inhaltsstoff
+customary	üblich
+explosion	Explosion
+author	Autor
+Israel	Israel
+supplies	Lieferungen
+transformation	Transformation
+height	Körpergröße
+joint	Joint
+facility	Anlage
+generator	Stromerzeuger
+US	US
+NPD	NPD
+keyboard	Tastatur
+regions	Regionen
+to block	blockieren
+source	Source
+social media	soziale Medien
+revenue	Einnahmen
+Swiss	Schweizerin
+criminal investigation	Ermittlungsverfahren
+emergency call	Notruf
+simulation	Simulation
+depth	Tiefe
+pay	Entlohnung
+star	Stern
+laboratory	Labor
+International Olympic Committee	IOC
+radio	Radio
+hospitals	Krankenhäuser
+appearance	Aussehen
+materials	Materialien
+comfort	Komfort
+claimant	Kläger
+organiser	Veranstalter
+general public	Bevölkerung
+sleep disorders	Schlafstörungen
+alcohol	Alkohol
+arrest	Festnahme
+bodily harm	Körperverletzung
+certified	anerkannt
+structure	Struktur
+helicopter	Hubschrauber
+shocked	schockiert
+bright	hell
+successful	erfolgreich
+laugh	lachen
+married	verheiratet
+beach	Strand
+Alexander	Alexander
+invest	investieren
+become	werden
+protect	schützen
+arrive	ankommen
+old	alt
+flee	fliehen
+percent	Prozent
+certainly	sicher
+talk	sprechen
+seven	sieben
+September	September
+Thursday	Donnerstag
+silence	Schweigen
+leader	Anführer
+Tuesday	Dienstag
+Putin	Putin
+warmth	Wärme
+feel	Gefühl
+peacemaker	Friedensstifter
+Republic of Ireland	Republik Irland
+Kremlin	Kreml
+Los Angeles	Los Angeles
+concrete	Beton
+size	Größe
+at the same time	gleichzeitig
+rescue	Rettung
+fishing boat	Fischerboot
+police	Polizei
+cost	kosten
+later	später
+somewhat	etwas
+GPS	GPS
+fun	Spaß
+Dr	Dr.
+Rio de Janeiro	Rio de Janeiro
+league	Liga
+test	Test
+embrace	umarmen
+comeback	Comeback
+killer	Mörder
+initial	erster
+crawl	krabbeln
+slowly	langsam
+measles	Masern
+flood	überschwemmen
+slow	langsam
+south	südlich
+observer	Beobachter
+critical	kritisch
+battle	Kampf
+proud	stolz
+yet	noch
+determination	Bestimmtheit
+begin	beginnen
+delay	Verzögerung
+last night	gestern Nacht
+deployment	Entsendung
+heart attack	Herzinfarkt
+blood clot	Blutgerinnsel
+clot	Blutgerinnsel
+mayor	Bürgermeister
+bad	schlimm
+merely	nur
+East	Osten
+duty	Pflicht
+clean	sauber
+background	Hintergrund
+long jumper	Weitspringer
+swimmer	Schwimmer
+Adrian	Adrian
+theory	Theorie
+rest	Rest
+analysis	Analyse
+Sarah	Sarah
+regret	bedauern
+inappropriate	unangemessen
+shop	Geschäft
+shelf	Regal
+buy	kaufen
+technique	Technik
+weight	Gewicht
+traveller	Reisender
+kid	Kind
+less	weniger
+phenomenon	Phänomen
+pretty	ziemlich
+behave	benehmen
+shock	Schock
+noise	Lärm
+afternoon	Nachmittag
+bronze	Bronze
+match	Match
+race	Rennen
+whom	die
+stop	stoppen
+way of life	Lebensweise
+mentality	Mentalität
+systematically	systematisch
+Romeo	Romeo
+Latin American	lateinamerikanisch
+passionate	leidenschaftlich
+temperament	Temperament
+fanaticism	Fanatismus
+last year	letztes Jahr
+widow	Witwe
+nominate	nominieren
+confirmation	Bestätigung
+instead of	anstelle
+art	Kunstwerk
+submit	einreichen
+witch-hunt	Hexenjagd
+branch	Zweig
+seek	suchen
+North Rhine-Westphalia	Nordrhein-Westfalen
+understood	verstanden
+take place	stattfinden
+blow up	aufblasen
+predecessor	Vorgänger
+at stake	auf dem Spiel
+seven percent	sieben Prozent
+Monday	Montag
+town	Ort
+workshop	Werkstatt
+Paul	Paul
+permanent	dauerhaft
+middle-aged	mittleren Alters
+pseudonym	Pseudonym
+enjoy	genießen
+purchase	kaufen
+wave	Welle
+explain	erklären
+void	Leere
+record player	Plattenspieler
+listen	hören
+female	Weibchen
+refugee camp	Flüchtlingslager
+hobby	Hobby
+Seattle	Seattle
+trailer	Trailer
+win	gewinnen
+break	Pause
+try	versuchen
+Robin	Robin
+battalion	Bataillon
+immediacy	Unmittelbarkeit
+very much	sehr
+truly	wirklich
+percent less	Prozent weniger
+association	Verein
+mind	Geist
+self-esteem	Selbstwertgefühl
+churchwarden directly	Kirchenvorsteher direkt
+animal husbandry	Tierhaltung
+arrest warrant	Haftbefehl
+Istanbul	Istanbul
+Europa	Europa
+third	Dritte
+Jamaica	Jamaika
+operation	Operation
+world champion	Weltmeisterin
+unclear	unklar
+taxi driver	Taxifahrer
+Baden-Württemberg	Baden-Württemberg
+propaganda	Propaganda
+refugee	Asylbewerber
+run	laufen
+five	fünf
+metre	Meter
+downtown	Innenstadt
+formerly	ehemals
+Obama	Obama
+resistance	Widerstand
+long-term	langfristig
+complete	ganz
+driver	Fahrerin
+fire brigade	Feuerwehr
+ambulance	Rettungswagen
+electricity	Strom
+pineapple	Ananas
+hashtag	Hashtag
+ISIS	ISIS
+picture	Bild
+Mosul	Mossul
+Kansas	Kansas
+morale	Moral
+oil	Öl
+meet	aufeinandertreffen
+score	Spielstand
+United States	USA
+depend	abhängen
+Rio de Janeiro feel	Rio de Janeiro fühlen
+read	lesen
+equally	gleich
+upon	mit
+admirable	bewundernswert
+promise	versprechen
+human rights	Menschenrechte
+Somalia	Somalia
+paragon	Vorbild
+Eritrea	Eritrea
+innocuous	harmlos
+especially	besonders
+relative	relativ
+bloodshed	Blutvergießen
+speech	Rede
+sarcasm defense	Sarkasmus Verteidigung
+generally	generell
+evidence	Beweismittel
+reporter	Reporter
+hide	verstecken
+luxury	Luxus
+dish	Gericht
+housekeeper	Haushälterin
+goo	Glibber
+observe Greenland	beobachten Grönland
+Greenland	Grönland
+world record	Weltrekord
+Alaska	Alaska
+directly	direkt
+income	Einkommen
+although	obwohl
+crowd	Menge
+whiff	Hauch
+clearly	deutlich
+synagogue	Synagoge
+oversight	Versehen
+broken	gebrochen
+civilization	Zivilisation
+reward	Belohnung
+high altar	Hochaltar
+glory	Ruhm
+Victoria	Victoria
+subsidy	Subvention
+joint venture	Joint Venture
+model	Model
+Mecklenburg	Mecklenburg
+heavy	schwer
+calculator	Taschenrechner
+success story	Erfolgsgeschichte
+introduction	Einführung
+budget	Budget
+daily	täglich
+run over	überfahren
+motorway	Autobahn
+canton	Kanton
+policewoman	Polizistin
+Venus	Venus
+rain	Regen
+club	Verein
+perfectly	perfekt
+in the future	Zukunft
+confirm	bestätigen
+Pleiades	Plejaden
+spin	rotieren
+hang	aufhängen
+clinic	Klinik
+participate	teilnehmen
+blow	Schlag
+podium	Podium
+conclusion	Ergebnis
+underground	Untergrund
+payment	Bezahlung
+seawater	Meerwasser
+slap in the face	Ohrfeige
+regular	regelmäßig
+sky	Himmel
+depression	Depression
+turn	wenden
+bed	Bett
+finger	Finger
+ground	Grund
+illegal	illegal
+peaceful	friedlich
+grateful	dankbar
