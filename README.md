@@ -65,3 +65,21 @@ bash train.sh $name
 ```shell
 bash predict.sh $name
 ```
+
+#### **Using Leca**
+```shell
+1. add special token "<seq>" into dictionary
+fairseq/fairseq/data/dictionary.py
+
+in function __init__()
+add argument: sep="<sep>"
+add init method: self.sep_index = self.add_symbol(sep)
+
+in class Dictionary()
+add function: 
+def sep(self):
+   return self.sep_index
+
+2. train
+bash train_leca.sh
+```
